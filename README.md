@@ -72,7 +72,7 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 ### 📫 Contato
 
-- 📧 **Email:** [hercules.tech.dev@gmail.com](hercules.tech.dev@gmail.com)  
+- 📧 **Email:** [hercules.tech.dev@gmail.com](mailto:hercules.tech.dev@gmail.com)
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/hercules-santos-ferreira/](https://www.linkedin.com/in/hercules-santos-ferreira/)  
 - 🌐 **Portfólio:** [seuportfólio.com](https://seuportfólio.com)  
 
