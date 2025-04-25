@@ -62,17 +62,23 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 ### 📜 Certificações
 
-![Alura](https://img.shields.io/badge/-Curso%20Alura%20Python%20Iniciante-blue?style=flat-square&logo=python)
-![Curso em Vídeo](https://img.shields.io/badge/-Curso%20em%20Vídeo%20Git%20e%20GitHub-green?style=flat-square&logo=git)
-![Rocketseat](https://img.shields.io/badge/-Rocketseat%20Discover%20JS-purple?style=flat-square&logo=javascript)
+![Hashtag Treinamentos](https://img.shields.io/badge/-Jornada%20Python%20Hashtag%20Treinamentos-blue?style=flat-square&logo=python)  
+*Conclusão do Jornada Python da Hashtag com duração de 8 horas, concluído em 27/07/2023.*
 
-> ✍️ *Pode personalizar e trocar pelos certificados reais que tiver concluído!*
+![Empowerdata](https://img.shields.io/badge/-Semana%20do%20Python%20na%20Prática%20Empowerdata-green?style=flat-square&logo=python)  
+*Participação na Semana do Python na Prática da Empowerdata com carga horária de 8 horas, concluído em 25/01/2024.*
+
+![Empowerdata](https://img.shields.io/badge/-Imersão%20Inteligência%20Artificial%20na%20Prática%20Empowerdata-purple?style=flat-square&logo=artificial-intelligence)  
+*Participação na Imersão Inteligência Artificial na Prática da Empowerdata com carga horária de 8 horas, concluído em 27/03/2025.*
+
+![Hashtag Treinamentos](https://img.shields.io/badge/-Jornada%20Inteligência%20Artificial%20Hashtag%20Treinamentos-blue?style=flat-square&logo=artificial-intelligence)  
+*Conclusão da Jornada Inteligência Artificial da Hashtag Treinamentos com duração de 8 horas, concluído em 10/04/2025.*
 
 ---
 
 ### 📫 Contato
 
-- 📧 **Email:** [hercules.tech.dev@gmail.com](mailto:hercules.tech.dev@gmail.com)
+- 📧 **Email:** [hercules.tech.dev@gmail.com](mailto:hercules.tech.dev@gmail.com)  
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/hercules-santos-ferreira/](https://www.linkedin.com/in/hercules-santos-ferreira/)  
 - 🌐 **Portfólio:** [https://herculesdev7.github.io/Portfolio_Automacao-RPA/](https://herculesdev7.github.io/Portfolio_Automacao-RPA/)  
 
