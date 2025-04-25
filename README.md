@@ -48,12 +48,14 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=HerculesDEV7&show_icons=true&theme=tokyonight&locale=pt-br&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="Estatísticas do GitHub" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDEV7&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9&locale=pt-br" alt="Linguagens mais usadas" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerculesDEV7&layout=compact&theme=tokyonight&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <strong>Linguagem Principal:</strong> Python 🐍<br>
+  <em>Meu foco é desenvolver soluções robustas e eficientes utilizando Python para automação e backend.</em>
 </p>
 
 ---
@@ -70,9 +72,9 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 ### 📫 Contato
 
-- 📧 **Email:** [herculessantos891@gmail.com](hercules.tech.dev@gmail.com)  
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/hercules-santos-ferreira/](https://www.linkedin.com/in/hercules-santos-ferreira/)  
-- 🌐 **Portfólio:** [https://herculesdev7.github.io/Portfolio_Automacao-RPA/](https://herculesdev7.github.io/Portfolio_Automacao-RPA/)  
+- 📧 **Email:** [seuemail@example.com](mailto:seuemail@example.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/seuusuario](https://www.linkedin.com/in/seuusuario)  
+- 🌐 **Portfólio:** [seuportfólio.com](https://seuportfólio.com)  
 
 ---
 
