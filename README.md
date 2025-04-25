@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Automação Cadastro de Produtos RPA](https://github.com/HerculesDEV7/Nome-do-Projeto-1) | Automação Cadastro de Produtos RPA utiliza ferramentas de automação para registrar produtos de forma eficiente, reduzindo erros e acelerando o processo. | Python, Pyautogui, Pandas |
+| [Automação Cadastro de Produtos RPA](https://github.com/HerculesDEV7/Projeto-Automacao-de-Cadastro-de-Produtos) | Automação Cadastro de Produtos RPA utiliza ferramentas de automação para registrar produtos de forma eficiente, reduzindo erros e acelerando o processo. | Python, Pyautogui, Pandas |
 | [Nome-do-Projeto-2](https://github.com/HerculesDEV7/Nome-do-Projeto-2) | Breve descrição do projeto | Python, PostgreSQL |
 | [Nome-do-Projeto-3](https://github.com/HerculesDEV7/Nome-do-Projeto-3) | Outro projeto interessante | UiPath, APIs |
 
