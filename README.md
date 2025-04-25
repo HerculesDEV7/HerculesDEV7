@@ -38,7 +38,7 @@ Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Nome-do-Projeto-1](https://github.com/HerculesDEV7/Nome-do-Projeto-1) | Breve descrição do que o projeto faz | Python, UiPath |
+| [Automação Cadastro de Produtos RPA](https://github.com/HerculesDEV7/Nome-do-Projeto-1) | Breve descrição do que o projeto faz | Python, UiPath |
 | [Nome-do-Projeto-2](https://github.com/HerculesDEV7/Nome-do-Projeto-2) | Breve descrição do projeto | Python, PostgreSQL |
 | [Nome-do-Projeto-3](https://github.com/HerculesDEV7/Nome-do-Projeto-3) | Outro projeto interessante | UiPath, APIs |
 
