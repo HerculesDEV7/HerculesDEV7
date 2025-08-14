@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Hercules S. Ferreira
 
-**`Desenvolvedor RPA`**
+**`Desenvolvedor Backend`**
 
 Me chamo Hercules Santos Ferreira, tenho 27 anos e sou de São Paulo.
 Atualmente, curso Análise e Desenvolvimento de Sistemas com ênfase em desenvolvimento backend.
@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e acredito que a construção de sistemas robustos
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; gap: 8px; flex-wrap: wrap;">
+<div style="display: flex; gap: 8px; flex-wrap: nowrap; overflow-x: auto;">
 
   <!-- linguagens e frameworks backend -->
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -39,7 +39,6 @@ Sou apaixonado por tecnologia e acredito que a construção de sistemas robustos
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
 
 ---
 
