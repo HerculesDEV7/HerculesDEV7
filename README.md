@@ -11,10 +11,10 @@ Sou apaixonado por tecnologia e acredito que a construção de sistemas robustos
 
 ### 🧾 Sobre Mim
 
-- 🎓 **Formação:** Cursando *Análise e Desenvolvimento de Sistemas*
-- 🧠 **Interesses:** Automação de processos, desenvolvimento backend e integração de sistemas  
-- 🌍 **Localização:** São Paulo, Brasil  
-- 💼 **Objetivo:** Atuar como Desenvolvedor RPA, aplicando soluções eficientes para otimizar processos empresariais  
+* 🎓 **Formação:** Cursando **Análise e Desenvolvimento de Sistemas**
+* 🧠 **Interesses:** Desenvolvimento backend, integração de sistemas e automação de processos
+* 🌍 **Localização:** São Paulo, Brasil
+* 💼 **Objetivo:** Atuar como desenvolvedor backend, criando soluções eficientes e escaláveis para otimização de sistemas e processos
 
 ---
 
