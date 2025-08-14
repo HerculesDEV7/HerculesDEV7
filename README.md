@@ -2,16 +2,16 @@
 
 **`Desenvolvedor RPA`**
 
-Me chamo Hercules Santos Ferreira, tenho 27 anos e sou de São Paulo.  
-Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unifatecie**, com foco em desenvolvimento backend e automação de processos.
+Me chamo Hercules Santos Ferreira, tenho 27 anos e sou de São Paulo.
+Atualmente, curso Análise e Desenvolvimento de Sistemas com ênfase em desenvolvimento backend.
 
-Sou apaixonado por tecnologia e acredito que automatizar tarefas repetitivas é uma forma poderosa de gerar valor e produtividade. Estou em busca da minha primeira oportunidade profissional como desenvolvedor RPA, e aqui você encontrará projetos que demonstram minha evolução e dedicação diária.
+Sou apaixonado por tecnologia e acredito que a construção de sistemas robustos e eficientes é essencial para gerar valor e otimizar processos. Aqui, apresento projetos que refletem minha evolução técnica, prática constante e dedicação ao aprimoramento diário.
 
 ---
 
 ### 🧾 Sobre Mim
 
-- 🎓 **Formação:** Cursando *Análise e Desenvolvimento de Sistemas* na Unifatecie  
+- 🎓 **Formação:** Cursando *Análise e Desenvolvimento de Sistemas*
 - 🧠 **Interesses:** Automação de processos, desenvolvimento backend e integração de sistemas  
 - 🌍 **Localização:** São Paulo, Brasil  
 - 💼 **Objetivo:** Atuar como Desenvolvedor RPA, aplicando soluções eficientes para otimizar processos empresariais  
